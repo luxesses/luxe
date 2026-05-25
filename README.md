@@ -32,8 +32,3 @@ Telegram → bridge (Go) → llama.cpp → Vulkan (Turnip) → Adreno 660
                     ↘ network-manager → netlink → ARP spoof
 ```
 
-## Contact
-
-Telegram: @luxesses
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=luxesses&theme=github-light&hide_title=true" width="100%"/>
