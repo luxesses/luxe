@@ -27,6 +27,4 @@ Telegram → bridge (Go) → llama.cpp → Vulkan (Turnip) → Adreno 660
                     ↘ network-manager → netlink → ARP spoof
 ```
 
-## Contact
 
-Telegram: @luxesses
