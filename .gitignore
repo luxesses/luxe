@@ -1,0 +1,33 @@
+# Binaries
+deauthd
+bridge
+llama-cli
+llama-server
+*.arm64
+
+# Shared libraries
+*.so
+
+# Logs
+*.log
+
+# Models (large files)
+*.gguf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build artifacts
+tmp/
+/build/
+/out/
+
+# Environment
+.env
