@@ -2,8 +2,7 @@
 
 Go, C++, Linux and Android. GPU compute pipelines, network daemons, on-device ML inference, automation.
 
-<img src="https://github-readme-stats.vercel.app/api?username=luxesses&show_icons=true&hide_title=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luxesses&layout=compact&hide_title=true" height="150"/>
+
 
 <p>
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white"/>
